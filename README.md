@@ -1,5 +1,9 @@
 # obsidian_apps
 
+For now there's only the aliases function.
+
+![./aliases/README.md
+
 ## Alias support
 Using python and regex you can create aliases so every time you make a internal link such as [[star formation rate]] the program uses a predefined alias to rename to [[star formation rate|SFR]]
 
