@@ -8,7 +8,7 @@ Using python and regex you can create aliases so every time you make a internal 
 
 ### Implementation.
 
-Clone the repository to a local file and *add your Obsidian Valut path to the `directories.py` obsidan_base_path variable in the root folder*. I **highly suggest to make a backup copy** before using anything. ***I'm not responsible for missing files or any trouble, use it with caution.*** Also in order to help the programme make more backup copies *add an example folder to the safe_obsidian variable in `directories.py`*. 
+Clone the contents of alias folder to your computer and *add your Obsidian Valut path to the `directories.py` obsidan_base_path variable in the root folder*. I **highly suggest to make a backup copy** before using anything. ***I'm not responsible for missing files or any trouble, use it with caution.*** Also in order to help the programme make more backup copies *add an example folder to the safe_obsidian variable in `directories.py`*. 
 
 *Execute python3 /path/to/root/aliases_ex.py*.
 
